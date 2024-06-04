@@ -1,0 +1,224 @@
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.dll
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.dll
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.dll
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.pdb
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Cliente.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Cliente.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Inicio.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Venta.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Compra.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Usuario.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Categoria.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Producto.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Categoria.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Cliente.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Compra.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Inicio.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Producto.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Usuario.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Venta.resources
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\EnvDTE80.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.ReporteUsuarios.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\EnvDTE80.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\stdole.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Categoria.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Cliente.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Compra.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Inicio.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Producto.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.ReporteUsuarios.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Usuario.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.Venta.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Debug\Presentacion.ReportesProducto.resources

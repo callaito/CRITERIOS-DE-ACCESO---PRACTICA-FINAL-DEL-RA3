@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\Negocio.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\Negocio.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\Datos.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\Entidades.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\Datos.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\Entidades.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\bin\Release\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\obj\Release\Negocio.csproj.Up2Date
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\obj\Release\Negocio.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Negocio\obj\Release\Negocio.pdb

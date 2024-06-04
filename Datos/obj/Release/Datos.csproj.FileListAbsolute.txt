@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\bin\Release\Datos.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\bin\Release\Datos.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\bin\Release\Entidades.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\bin\Release\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\bin\Release\Entidades.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\bin\Release\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\obj\Release\Datos.csproj.Up2Date
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\obj\Release\Datos.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Datos\obj\Release\Datos.pdb

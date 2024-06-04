@@ -1,0 +1,36 @@
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.dll
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.Up2Date
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.dll
+C:\Users\dc552\source\repos\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.Up2Date
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.Up2Date
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc\Desktop\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\Entidades.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.csproj.Up2Date
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,140 @@
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Presentacion.exe.config
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Presentacion.exe
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Presentacion.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Datos.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Entidades.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.Design.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Negocio.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\EnvDTE.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\EnvDTE80.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\stdole.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Datos.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Entidades.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Negocio.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Categoria.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Cliente.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Compra.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Inicio.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Login.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Producto.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Properties.Resources.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.ReportesProducto.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.ReporteUsuarios.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Usuario.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Venta.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presenta.BC77CD05.Up2Date
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.exe
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Cliente.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Login.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.Properties.Resources.resources
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.exe
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presentacion.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Presentacion.exe.config
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Presentacion.exe
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Presentacion.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Datos.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Entidades.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.Design.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Negocio.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\System.Data.SqlClient.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\EnvDTE.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\EnvDTE80.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\stdole.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Datos.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Entidades.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\Negocio.pdb
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\System.Data.SqlClient.xml
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc\Desktop\COPIA 3.0 ESTA SI ES\Criterios de acceso\Ra3_criterios_de_acceso\Ra3_criterios_de_acceso\Presentacion\obj\Release\Presenta.BC77CD05.Up2Date
