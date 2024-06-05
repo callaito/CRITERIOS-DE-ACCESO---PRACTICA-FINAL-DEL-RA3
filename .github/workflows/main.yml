@@ -1,0 +1,20 @@
+            - name: TSQLLint Action
+  # You may pin to the exact commit or the version.
+  # uses: lowlydba/tsqllint-action@9956b716eb4a10932493b318433c03ea9f17b005
+  uses: lowlydba/tsqllint-action@v.1.3.2
+  with:
+    # Space delimited path(s) to run linter against. Wildcards can be specified using `*`.
+    path: # optional, default is .
+    # Path to a configuration file for the linter.
+    config: # optional, default is .github/linters/.tsqllintrc
+    # Create comment with summary of linter results.
+    comment: # optional, default is false
+    # Only lint on modified `.sql` files. Will ignore `path` if `true` in pull requests, or default back to `path` if not in a pull request.
+    only-changed-files: # optional, default is false
+    # Append results from multiple runs in a single comment.
+    append-comment: # optional, default is false
+    # Add linter results to the job summary.
+    summary: # optional, default is false
+    # Branch to diff against when using only-changed-files.
+    compare-branch: # optional, default is main
+          
